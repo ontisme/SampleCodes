@@ -19,7 +19,7 @@ public static extern bool RegisterHotKey(IntPtr hwnd, int id, uint fsModifiers, 
 public static extern bool UnregisterHotKey(IntPtr hwnd, int id);
 
 
-//調用註冊熱鍵，註冊F7，ID為0
+//調用註冊熱鍵，註冊F7，ID為1
 RegisterHotKey(Handle, 1, 0, Keys.F7);
 
 //記得於FormClosing時調用，註銷熱鍵
