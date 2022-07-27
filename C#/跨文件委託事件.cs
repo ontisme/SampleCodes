@@ -1,6 +1,6 @@
 //主要.cs
 var sub = new Sub();
-sub.NewDelegate += new Sub.NewDelegate(BetTaskProcess);
+sub.NewDelegate += new Sub.NewDelegate(DoEvent);
 
 void DoEvent(Action task)
 {
