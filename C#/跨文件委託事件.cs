@@ -1,6 +1,6 @@
 //主要.cs
 var sub = new Sub();
-sub.NewDelegate += new Sub.NewDelegate(DoEvent);
+sub.DelegateCallback += new Sub.NewDelegate(DoEvent);
 
 void DoEvent(Action task)
 {
@@ -9,7 +9,7 @@ void DoEvent(Action task)
 
 
 //Sub.cs
-public event Delegate NewDelegate;
+public event Delegate DelegateCallback;
 public delegate void Delegate(Action task);
 
 //調用方式
