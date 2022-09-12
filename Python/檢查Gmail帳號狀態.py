@@ -1,6 +1,12 @@
+# requirements.txt
+dnspython==2.2.1
+filelock==3.8.0
+idna==3.3
+py3-validate-email==1.0.7
+
+
 import threading
 from ipaddress import IPv4Address, IPv6Address
-# pip install py3-validate-email
 from validate_email import validate_email
 
 
