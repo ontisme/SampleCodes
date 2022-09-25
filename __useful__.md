@@ -13,7 +13,7 @@
 # 連線工具
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
 
-# 開心軟體
+# 網站管理
 + 寶塔：[連結](https://bt.sy/bbs/thread-20250-1-1.html)
 
 # 系統元件
