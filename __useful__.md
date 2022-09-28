@@ -22,3 +22,7 @@
 # 瀏覽插件
 + 百度高速下載腳本(可批次)：[連結](https://www.baiduyun.wiki/install.html)
 + 百度高速下載腳本(穩定高速、僅單次)：[連結](https://www.cnblogs.com/softxmm/p/13972678.html#idm)
+
+# 實用捷徑
++ ChromeRemote
+`"C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory=Default  --app="https://remotedesktop.google.com/u/0/access/session/34410cd1-6569-8aae-29c9-6fa5ceaa0338"`
