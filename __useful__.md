@@ -28,5 +28,4 @@
 `"C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory=Default  --app="https://remotedesktop.google.com/u/0/access/session/34410cd1-6569-8aae-29c9-6fa5ceaa0338"`
 
 # 手機刷機
-+ Samsung Galaxy S7 Root：[連結](https://youtu.be/YYQa3XcFCwo) - 現在都用 Magisk，不用SuperSu了
-`做到 Magisk 提取出來的檔案 用 Odin 刷 AP 就可以了`
++ Samsung Galaxy S7 Root：[連結](https://youtu.be/YYQa3XcFCwo) - `做到 Magisk 提取出來的檔案 用 Odin 刷 AP 就可以了`
