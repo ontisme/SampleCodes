@@ -26,3 +26,6 @@
 # 實用捷徑
 + ChromeRemote
 `"C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory=Default  --app="https://remotedesktop.google.com/u/0/access/session/34410cd1-6569-8aae-29c9-6fa5ceaa0338"`
+
+# 手機刷機
++ Samsung Galaxy S7 Root：[連結](https://drive.google.com/drive/folders/1UBW4znosZHMAWMMdkcT75W9rhftfjeqQ?usp=sharing)
