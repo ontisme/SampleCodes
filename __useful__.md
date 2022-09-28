@@ -29,3 +29,6 @@
 
 # 手機刷機
 + Samsung Galaxy S7 Root：[連結](https://youtu.be/YYQa3XcFCwo) - `做到 Magisk 提取出來的檔案 用 Odin 刷 AP 就可以了`
+
+# 程式安全
++ The Enigma Protector v6.80 x64：[連結](https://drive.google.com/file/d/1lNbIDzgHumwFi0eveVeK0-uOU80u0M9V/view?usp=sharing)
