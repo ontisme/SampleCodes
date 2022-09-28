@@ -29,3 +29,4 @@
 
 # 手機刷機
 + Samsung Galaxy S7 Root：[連結](https://youtu.be/YYQa3XcFCwo) - 現在都用 Magisk，不用SuperSu了
+`做到 Magisk 提取出來的檔案 用 Odin 刷 AP 就可以了`
