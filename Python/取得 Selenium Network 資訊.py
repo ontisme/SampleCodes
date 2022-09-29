@@ -22,7 +22,7 @@ while True:
     events = [process_browser_log_entry(entry) for entry in browser_log]
     events = [event for event in events if 'Network.response' in event['method']]
     
-    # 拿 R
+    # 拿 Response Body
     for i in events:
         if "userverify" in str(i):
             print(driver.execute_cdp_cmd('Network.getResponseBody', {'requestId': events[0]["params"]["requestId"]}))
