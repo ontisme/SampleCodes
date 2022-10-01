@@ -23,6 +23,22 @@ EDGE = pjoin(CD, 'Users', USERNAME, 'AppData', 'Local', 'Microsoft', 'Edge')
 TEMP = gettempdir()
 
 
+def getChromeExePath():
+    paths = [pjoin(CD, 'Program Files', 'Google', 'Chrome', 'Application'), pjoin(
+        CD, 'Program Files (x86)', 'Google', 'Chrome', 'Application'), pjoin(CHROME, 'Application')]
+    for i in range(len(paths)):
+        try:
+            dir = paths[i]
+            files = listdir(dir)
+            break
+        except:
+            pass
+    for file in files:
+        if file == "chrome.exe":
+            return pjoin(dir, file)
+    return None
+
+
 def getChromeVersion():
     paths = [pjoin(CD, 'Program Files', 'Google', 'Chrome', 'Application'), pjoin(
         CD, 'Program Files (x86)', 'Google', 'Chrome', 'Application'), pjoin(CHROME, 'Application')]
@@ -190,6 +206,22 @@ def getFirefoxDriver(update=False):
     return path
 
 
+def getEdgeExePath():
+    paths = [pjoin(CD, 'Program Files', 'Microsoft', 'Edge', 'Application'), pjoin(
+        CD, 'Program Files (x86)', 'Microsoft', 'Edge', 'Application')]
+    for i in range(len(paths)):
+        try:
+            dir = paths[i]
+            files = listdir(dir)
+            break
+        except:
+            pass
+    for file in files:
+        if file == "msedge.exe":
+            return pjoin(dir, file)
+    return None
+
+
 def getEdgeVersion():
     paths = [pjoin(CD, 'Program Files', 'Microsoft', 'Edge', 'Application'), pjoin(
         CD, 'Program Files (x86)', 'Microsoft', 'Edge', 'Application')]
@@ -233,5 +265,7 @@ def getPhantomJSDriver(update=False):
     remove('phantomjs.zip')
     return path
 
+
 if __name__ == '__main__':
-    getEdgeDriver()
+    print(getChromeExePath())
+    print(getEdgeExePath())
