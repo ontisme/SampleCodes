@@ -30,5 +30,12 @@
 # 手機刷機
 + Samsung Galaxy S7 Root：[連結](https://youtu.be/YYQa3XcFCwo) - `做到 Magisk 提取出來的檔案 用 Odin 刷 AP 就可以了`
 
+# 逆向工程
++ IDA Pro：[連結](https://drive.google.com/file/d/1nRFZLze31pd3LeBZlP2v2mqlELEP98t1/view?usp=sharing)
++ 010 Editor：[連結](https://drive.google.com/file/d/19Cq3PqRvl3DCrpIjtw4M8a__kbbs5y9z/view?usp=sharing)
+
 # 程式安全
 + The Enigma Protector v6.80 x64：[連結](https://drive.google.com/file/d/1lNbIDzgHumwFi0eveVeK0-uOU80u0M9V/view?usp=sharing)
+
+# 移除軟體
++ Revo Uninstaller：[連結](https://secure.2checkout.com/affiliate.php?ACCOUNT=VSREVOGR&AFFILIATE=6433&PATH=https://download.revouninstaller.com/download/RevoUninstaller_Portable.zip%3FAFFILIATE%3D6433)
