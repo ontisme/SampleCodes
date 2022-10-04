@@ -34,7 +34,7 @@
 + IDA Pro：[連結](https://drive.google.com/file/d/1nRFZLze31pd3LeBZlP2v2mqlELEP98t1/view?usp=sharing)
 + 010 Editor：[連結](https://drive.google.com/file/d/19Cq3PqRvl3DCrpIjtw4M8a__kbbs5y9z/view?usp=sharing)
 
-# 程式安全
+# 程式打包
 + The Enigma Protector v6.80 x64：[連結](https://drive.google.com/file/d/1lNbIDzgHumwFi0eveVeK0-uOU80u0M9V/view?usp=sharing)
 
 # 移除軟體
