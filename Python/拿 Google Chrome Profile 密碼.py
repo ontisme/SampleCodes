@@ -102,3 +102,6 @@ def decrypt(secret_key, cipher_text, system):
     decrypted_password = cipher.decrypt(encrypted_password).decode("latin1")
     return decrypted_password
 
+if __name__ == "__main__":
+    secret_key, system, os_name = get_secret_key()
+    decrypted_passwords = decrypt_passwords(secret_key, system, os_name)
