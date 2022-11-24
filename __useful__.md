@@ -53,3 +53,14 @@ sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/s
 sudo service sshd restart
 reboot
 ```
+
+# 梯子搭建腳本
++ Works on Centos Ubuntu
+```
+sudo -i
+bash <(curl -Ls https://raw.githubusercontent.com/sprov065/x-ui/master/install.sh)
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+iptables -F
+```
