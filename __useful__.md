@@ -12,6 +12,7 @@
 
 # 連線工具
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
++ FinalShell P：[連結](https://yyo.lanzouv.com/b02pldkkh)
 
 # 網站管理
 + 寶塔：[連結](https://bt.sy/bbs/thread-20250-1-1.html)
