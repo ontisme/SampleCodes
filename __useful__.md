@@ -42,3 +42,14 @@
 
 # 移除軟體
 + Revo Uninstaller：[連結](https://secure.2checkout.com/affiliate.php?ACCOUNT=VSREVOGR&AFFILIATE=6433&PATH=https://download.revouninstaller.com/download/RevoUninstaller_Portable.zip%3FAFFILIATE%3D6433)
+
+# Linux指令
++ 修改 Root 密碼 登入 
+```
+sudo -i
+passwd
+sudo sed -i 's/^#\?PermitRootLogin.*/PermitRootLogin yes/g' /etc/ssh/sshd_config;
+sudo sed -i 's/^#\?PasswordAuthentication.*/PasswordAuthentication yes/g' /etc/ssh/sshd_config;
+sudo service sshd restart
+reboot
+```
