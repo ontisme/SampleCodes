@@ -13,6 +13,7 @@
 # 連線工具
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
 + XShell：[連結](https://www.jb51.net/softs/732916.html)
++ WinSCP：[連結](https://cdn.winscp.net/files/WinSCP-5.21.5-Setup.exe?secure=UCBVs_tFgcmkZOUuBpz_Ng==,1669267296)
 
 
 # 網站管理
