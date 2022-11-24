@@ -14,7 +14,7 @@
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
 + XShell：[連結](https://www.jb51.net/softs/732916.html)
 + WinSCP：[連結](https://cdn.winscp.net/files/WinSCP-5.21.5-Setup.exe?secure=UCBVs_tFgcmkZOUuBpz_Ng==,1669267296)
-
++ Electerm：[連結](https://electerm.github.io/electerm/)
 
 # 網站管理
 + 寶塔：[連結](https://bt.sy/bbs/thread-20250-1-1.html)
