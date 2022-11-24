@@ -12,6 +12,8 @@
 
 # 連線工具
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
++ XShell：[連結](https://www.jb51.net/softs/732916.html)
+
 
 # 網站管理
 + 寶塔：[連結](https://bt.sy/bbs/thread-20250-1-1.html)
