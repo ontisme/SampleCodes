@@ -67,3 +67,6 @@ iptables -P FORWARD ACCEPT
 iptables -P OUTPUT ACCEPT
 iptables -F
 ```
+
+# SK5管理系統
+https://github.com/wyx176/nps-socks5
