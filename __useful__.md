@@ -47,6 +47,9 @@
 # 移除軟體
 + Revo Uninstaller：[連結](https://secure.2checkout.com/affiliate.php?ACCOUNT=VSREVOGR&AFFILIATE=6433&PATH=https://download.revouninstaller.com/download/RevoUninstaller_Portable.zip%3FAFFILIATE%3D6433)
 
+# 代理軟體
++ 老魚SK5代理：[連結](https://wwso.lanzouq.com/b02ule1od)
+
 # Linux指令
 + 修改 Root 密碼 登入 
 ```
