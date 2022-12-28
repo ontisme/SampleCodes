@@ -86,3 +86,11 @@ https://github.com/wyx176/nps-socks5
 10.主帳號切到帳單，左方選單選帳戶管理，選取好帳單帳戶後，點關閉帳單帳戶
 11.舊帳號，前往https://pay.google.com/gp/w/u/0/home/paymentmethods，刪除信用卡
 ```
+
+# Windows Server 2012r2 在 VMWare 的注意事項
+```
+無法自動安裝 VMware Tools
+需手動下載以下更新：
+```
++ [KB2919355](https://www.microsoft.com/zh-cn/download/details.aspx?id=42335)
++ [KB2975061](https://www.microsoft.com/zh-CN/download/details.aspx?id=43530)
