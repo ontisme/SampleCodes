@@ -6,6 +6,7 @@
 + Discord：[連結](https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9006/DiscordSetup.exe)
 + LINE：[連結](https://desktop.line-scdn.net/win/new/LineInst.exe)
 + Defender Control：[連結](https://201708.mediafire.com/file/jnbsym9pygygg7m/DefenderControlrPortable_2.0_azo.exe/file) - `解壓縮密碼：azo`
++ PotPlayer：[連結](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 
 # 虛擬系統
 + VMware Workstaion：[連結](https://www.vmware.com/go/getworkstation-win) - `JU090-6039P-08409-8J0QH-2YR7F`
