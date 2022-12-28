@@ -90,7 +90,7 @@ https://github.com/wyx176/nps-socks5
 # Windows Server 2012r2 在 VMWare 的注意事項
 ```
 無法自動安裝 VMware Tools
-需手動下載以下更新：
+需手動下載以下更新 (須按照順序)：
 ```
-+ [KB2919355](https://www.microsoft.com/zh-cn/download/details.aspx?id=42335)
 + [KB2975061](https://www.microsoft.com/zh-CN/download/details.aspx?id=43530)
++ [KB2919355](https://www.microsoft.com/zh-cn/download/details.aspx?id=42335)
