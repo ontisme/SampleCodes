@@ -20,6 +20,9 @@
 + WinSCP：[連結](https://cdn.winscp.net/files/WinSCP-5.21.5-Setup.exe?secure=UCBVs_tFgcmkZOUuBpz_Ng==,1669267296)
 + Electerm：[連結](https://electerm.github.io/electerm/)
 
+# 開發相關工具
++ Navicat：[連結](https://download3.navicat.com/download/navicat161_premium_ct_x64.exe)
+
 # 網站管理
 + 寶塔：[連結](https://bt.sy/bbs/thread-20250-1-1.html)
 
