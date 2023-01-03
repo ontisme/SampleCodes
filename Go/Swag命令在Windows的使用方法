@@ -1,5 +1,4 @@
-windows下的使用
-windows下没有bin目录，首先我们需要找到swag的下载位置*…/github.com\swaggo\swag@v1.5.1\cmd\swag*
+找到swag的下载位置*…/github.com\swaggo\swag@v1.5.1\cmd\swag*
 在该目录下执行go install 会生成swag.exe到gopath的主目录下。
 
 这个swag.exe就可以用来执行swag init操作了。
