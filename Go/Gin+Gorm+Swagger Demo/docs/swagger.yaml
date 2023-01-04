@@ -1,0 +1,23 @@
+basePath: '{{.BasePath}}'
+host: '{{.Host}}'
+info:
+  contact:
+    name: Example
+  description: Swagger API.
+  license: {}
+  title: Swagger Demo
+  version: "1.0"
+paths:
+  /api/v1/test/sys_hello:
+    get:
+      operationId: "1"
+      produces:
+      - text/plain
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      tags:
+      - Test
+swagger: "2.0"
