@@ -2,8 +2,8 @@
 dnspython==2.2.1
 filelock==3.8.0
 idna==3.3
-py3-validate-email==1.0.7
 
+pip install git+https://gitea.ksol.io/karolyi/py3-validate-email@v1.0.9
 
 import threading
 from ipaddress import IPv4Address, IPv6Address
