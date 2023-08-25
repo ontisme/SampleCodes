@@ -21,7 +21,8 @@
 + Electerm：[連結](https://electerm.github.io/electerm/)
 
 # 開發相關工具
-+ Navicat：[連結](https://download3.navicat.com/download/navicat161_premium_ct_x64.exe)
++ Navicat：[連結](https://download3.navicat.com/download/navicat162_premium_ct_x64.exe)
++ Navicat Happy：[連結](https://drive.google.com/file/d/1YVK4NdzLpVwdqW2x_nn-h5TZjKizVJaW/view?usp=sharing)
 
 # 網站管理
 + 寶塔：[連結](https://bt.sy/bbs/thread-20250-1-1.html)
