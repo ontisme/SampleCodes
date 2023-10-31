@@ -1,5 +1,6 @@
 # 系統鏡像
 + Windows ISO集合：[連結](https://ourl.co/lanod) - `解壓縮密碼：landian.vip`
++ ALL OS 集合：[連結](https://www.getmyos.com/)
 + CentOS7 ISO清華鏡像：[連結](https://mirrors.tuna.tsinghua.edu.cn/centos/7/isos/x86_64/)
 + Ubuntu ISO鏡像：[連結](http://mirrors.ustc.edu.cn/ubuntu-releases/)
 + KMS AIO：[連結](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases/download/v0.47.0/KMS_VL_ALL_AIO-47.7z) - `解壓縮密碼：2022`
