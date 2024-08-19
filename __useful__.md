@@ -10,12 +10,17 @@
 + LINE：[連結](https://desktop.line-scdn.net/win/new/LineInst.exe)
 + Defender Control：[連結](https://201708.mediafire.com/file/jnbsym9pygygg7m/DefenderControlrPortable_2.0_azo.exe/file) - `解壓縮密碼：azo`
 + PotPlayer：[連結](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
-
++ Office365：[連結](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA)
++ WinRAR：[連結](https://mega.nz/file/ohgRSYxC#XsFidQMIuH6m8Xi3ymvHq-cq6j6NBcBlZqvJ2O9ykQs)
++ 
 # 虛擬系統
 + VMware Workstaion：[連結](https://www.vmware.com/go/getworkstation-win) - `JU090-6039P-08409-8J0QH-2YR7F`
 
 # 傳輸工具
 + Internet Download Manager v6.4：[連結](https://drive.google.com/file/d/1460Ndw6h9Vn45Jv2LcGXbjh5gvCbhL8n/view?usp=sharing) - `解壓縮密碼：1234`
+
+# 遠程軟體
++ RustDesk：[連結](https://rustdesk.com/download)
 
 # 連線工具
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
