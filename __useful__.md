@@ -12,7 +12,10 @@
 + PotPlayer：[連結](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 + Office365：[連結](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA)
 + WinRAR：[連結](https://mega.nz/file/ohgRSYxC#XsFidQMIuH6m8Xi3ymvHq-cq6j6NBcBlZqvJ2O9ykQs)
-
++ RustDesk：[連結](https://github.com/rustdesk/rustdesk/releases/tag/1.3.0)
++ AnyDesk：[連結](https://anydesk.com/zh-tw/downloads/thank-you?dv=win_exe)
++ OBS：[連結](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.3-Windows-Installer.exe)
+  
 # IDE
 + Pycharm：[連結](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
 + WebStorm：[連結](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=windows)
@@ -20,6 +23,9 @@
 # 編輯器
 + NotePad++：[連結](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe)
 + VSCode：[連結](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+
+# 調適工具
++ Postman：[連結](https://dl.pstmn.io/download/latest/win64)
 
 # 虛擬系統
 + VMware Workstaion：[連結](https://www.vmware.com/go/getworkstation-win) - `JU090-6039P-08409-8J0QH-2YR7F`
