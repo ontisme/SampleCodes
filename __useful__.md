@@ -12,8 +12,6 @@
 + PotPlayer：[連結](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 + Office365：[連結](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA)
 + WinRAR：[連結](https://mega.nz/file/ohgRSYxC#XsFidQMIuH6m8Xi3ymvHq-cq6j6NBcBlZqvJ2O9ykQs)
-+ RustDesk：[連結](https://github.com/rustdesk/rustdesk/releases/tag/1.3.0)
-+ AnyDesk：[連結](https://anydesk.com/zh-tw/downloads/thank-you?dv=win_exe)
 + OBS：[連結](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.3-Windows-Installer.exe)
   
 # IDE
@@ -24,6 +22,10 @@
 + NotePad++：[連結](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe)
 + VSCode：[連結](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
+# 遠程軟體
++ RustDesk：[連結](https://github.com/rustdesk/rustdesk/releases/)
++ AnyDesk：[連結](https://anydesk.com/zh-tw/downloads/thank-you?dv=win_exe)
+
 # 調適工具
 + Postman：[連結](https://dl.pstmn.io/download/latest/win64)
 
@@ -32,9 +34,6 @@
 
 # 傳輸工具
 + Internet Download Manager v6.4：[連結](https://drive.google.com/file/d/1460Ndw6h9Vn45Jv2LcGXbjh5gvCbhL8n/view?usp=sharing) - `解壓縮密碼：1234`
-
-# 遠程軟體
-+ RustDesk：[連結](https://rustdesk.com/download)
 
 # 連線工具
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
