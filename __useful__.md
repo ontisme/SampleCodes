@@ -17,6 +17,7 @@
 # IDE
 + Pycharm：[連結](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows)
 + WebStorm：[連結](https://www.jetbrains.com/webstorm/download/download-thanks.html?platform=windows)
++ Happy：[連結](https://3.jetbra.in/)
 
 # 編輯器
 + NotePad++：[連結](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe)
