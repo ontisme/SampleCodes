@@ -35,7 +35,7 @@
 + ChatGPT 自動繼續：[連結](https://greasyfork.org/zh-CN/scripts/466789-chatgpt-auto-continue)
 
 # VR
-+ OpenVRSpaceCalibrator：[連結](https://github.com/bdunderscore/OpenVR-SpaceCalibrator/releases/download/v1.4-bd_-r0/OpenVR-SpaceCalibrator.exe)
++ OpenVRSpaceCalibrator：[連結](https://github.com/bdunderscore/OpenVR-SpaceCalibrator/releases/download/v1.4-bd_-r2/OpenVR-SpaceCalibrator.exe)
 
 # 虛擬系統
 + VMware Workstaion：[連結](https://www.vmware.com/go/getworkstation-win) - `JU090-6039P-08409-8J0QH-2YR7F`
