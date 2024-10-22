@@ -44,6 +44,7 @@
 + Internet Download Manager v6.4：[連結](https://drive.google.com/file/d/1460Ndw6h9Vn45Jv2LcGXbjh5gvCbhL8n/view?usp=sharing) - `解壓縮密碼：1234`
 
 # 連線工具
++ Mobaxterm：[連結]([http://www.hostbuf.com/downloads/finalshell_install.exe](https://download.mobatek.net/2422024061715901/MobaXterm_Installer_v24.2.zip))
 + FinalShell：[連結](http://www.hostbuf.com/downloads/finalshell_install.exe)
 + XShell：[連結](https://www.jb51.net/softs/732916.html)
 + WinSCP：[連結](https://cdn.winscp.net/files/WinSCP-5.21.5-Setup.exe?secure=UCBVs_tFgcmkZOUuBpz_Ng==,1669267296)
