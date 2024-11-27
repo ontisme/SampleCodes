@@ -38,7 +38,7 @@
 + OpenVRSpaceCalibrator：[連結](https://github.com/bdunderscore/OpenVR-SpaceCalibrator/releases/download/v1.4-bd_-r2/OpenVR-SpaceCalibrator.exe)
 
 # 虛擬系統
-+ VMware Workstaion：[連結](https://www.vmware.com/go/getworkstation-win) - `JU090-6039P-08409-8J0QH-2YR7F`
++ VMware Workstaion：[連結](https://201708.mediafire.com/file/jv0juc5a32nphso/VMware_Workstation_Pro_17.6.1_setup_azo.exe/file) - `JU090-6039P-08409-8J0QH-2YR7F`
 
 # 傳輸工具
 + Internet Download Manager v6.4：[連結](https://drive.google.com/file/d/1460Ndw6h9Vn45Jv2LcGXbjh5gvCbhL8n/view?usp=sharing) - `解壓縮密碼：1234`
