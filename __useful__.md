@@ -133,5 +133,5 @@ https://github.com/wyx176/nps-socks5
 + [KB2919355](https://www.microsoft.com/zh-tw/download/details.aspx?id=42335)
 
 ```batch
-curl -o t.bat https://tinyurl.com/2012r2vmfix && call t.bat
+powershell -Command "Invoke-WebRequest -Uri 'https://tinyurl.com/2012r2vmfix' -OutFile 't.bat'; Start-Process 't.bat' -Wait"
 ```
