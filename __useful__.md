@@ -128,6 +128,7 @@ https://github.com/wyx176/nps-socks5
 無法自動安裝 VMware Tools
 需手動下載以下更新 (須按照順序)：
 ```
++ [直接Batch修復](https://raw.githubusercontent.com/ontisme/SampleCodes/refs/heads/main/Win2012R2_VMTool%E4%BF%AE%E5%BE%A9.bat)
 + [KB2975061](https://www.microsoft.com/zh-tw/download/details.aspx?id=43530)
 + [KB2919355](https://www.microsoft.com/zh-tw/download/details.aspx?id=42335)
 
