@@ -10,7 +10,7 @@
 + LINE：[連結](https://desktop.line-scdn.net/win/new/LineInst.exe)
 + Defender Control：[連結](https://www.sordum.org/files/downloads.php?st-defender-control) - `解壓縮密碼：sordum`
 + PotPlayer：[連結](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
-+ Office365：[連結](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=en-us&version=O16GA)
++ Office365：[連結](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=O365ProPlusRetail&platform=x64&language=zh-tw&version=O16GA)
 + WinRAR：[連結](https://mega.nz/file/ohgRSYxC#XsFidQMIuH6m8Xi3ymvHq-cq6j6NBcBlZqvJ2O9ykQs)
 + OBS：[連結](https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.2.3-Windows-Installer.exe)
   
