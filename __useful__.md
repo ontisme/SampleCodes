@@ -111,7 +111,21 @@ iptables -F
 # SK5管理系統
 https://github.com/wyx176/nps-socks5
 
-# GCP Tips
+# Windows Server 2012r2 在 VMWare 的注意事項
+```
+無法自動安裝 VMware Tools
+需手動下載以下更新 (須按照順序)：
+```
++ [直接Batch修復](https://tinyurl.com/2012r2vmfix)
++ [KB2975061](https://www.microsoft.com/zh-tw/download/details.aspx?id=43530)
++ [KB2919355](https://www.microsoft.com/zh-tw/download/details.aspx?id=42335)
+
+```batch
+powershell -Command "Invoke-WebRequest -Uri 'https://tinyurl.com/2012r2vmfix' -OutFile 't.bat'; Start-Process 't.bat' -Wait"
+```
+
+
+# GCP Tips (過時)
 ```
 1.無痕登入新帳號的GCP
 2.選單進入帳單
@@ -126,15 +140,3 @@ https://github.com/wyx176/nps-socks5
 11.舊帳號，前往https://pay.google.com/gp/w/u/0/home/paymentmethods，刪除信用卡
 ```
 
-# Windows Server 2012r2 在 VMWare 的注意事項
-```
-無法自動安裝 VMware Tools
-需手動下載以下更新 (須按照順序)：
-```
-+ [直接Batch修復](https://tinyurl.com/2012r2vmfix)
-+ [KB2975061](https://www.microsoft.com/zh-tw/download/details.aspx?id=43530)
-+ [KB2919355](https://www.microsoft.com/zh-tw/download/details.aspx?id=42335)
-
-```batch
-powershell -Command "Invoke-WebRequest -Uri 'https://tinyurl.com/2012r2vmfix' -OutFile 't.bat'; Start-Process 't.bat' -Wait"
-```
