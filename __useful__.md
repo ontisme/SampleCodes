@@ -62,6 +62,7 @@
 
 # 系統元件
 + AIO Runtime 2.5.0：[連結](https://201708.mediafire.com/file/20777ipkoncu1i9/All_in_One_Runtimes_2.5.0_azo.exe/file)
++ VC++ 全家桶：[連結](https://github.com/abbodi1406/vcredist/releases)
 
 # 瀏覽插件
 + 百度高速下載腳本(可批次)：[連結](https://www.baiduyun.wiki/install.html)
