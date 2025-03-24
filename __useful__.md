@@ -23,6 +23,9 @@
 + NotePad++：[連結](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.6.9/npp.8.6.9.Installer.x64.exe)
 + VSCode：[連結](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
 
+# Git工具
++ GitKraken：[連結](https://www.gitkraken.com/download/windows64)
+
 # 遠程軟體
 + RustDesk：[連結](https://github.com/rustdesk/rustdesk/releases/)
 + AnyDesk：[連結](https://anydesk.com/zh-tw/downloads/thank-you?dv=win_exe)
