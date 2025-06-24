@@ -1,3 +1,8 @@
++ 快速設定：
+```
+iex (iwr "https://raw.githubusercontent.com/ontisme/SampleCodes/refs/heads/main/重灌批次設定.ps1" -useb).Content
+```
+
 # 系統鏡像
 + Windows ISO集合：[連結](https://ourl.co/lanod) - `解壓縮密碼：landian.vip`
 + ALL OS 集合：[連結](https://www.getmyos.com/)
