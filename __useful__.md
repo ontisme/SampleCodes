@@ -66,7 +66,7 @@ iex (iwr "https://raw.githubusercontent.com/ontisme/SampleCodes/refs/heads/main/
 + Navicat Happy：[連結](https://drive.google.com/file/d/1YVK4NdzLpVwdqW2x_nn-h5TZjKizVJaW/view?usp=sharing)
 
 # 網站管理
-+ 寶塔：[連結]([https://bt.sy/bbs/thread-20250-1-1.html](https://bt.sb/bbs/forum-37-1.html))
++ 寶塔：[連結](https://bt.sb/bbs/thread-25936-1-1.html)
 
 # 系統元件
 + AIO Runtime 2.5.0：[連結](https://201708.mediafire.com/file/20777ipkoncu1i9/All_in_One_Runtimes_2.5.0_azo.exe/file)
